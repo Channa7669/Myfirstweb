@@ -1,0 +1,16 @@
+div{
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+    color: crimson;
+    transition: width 2s,background-color 3s;
+    transition-delay: 2s;
+}
+div:hover
+    {
+        width: 500px;
+        background-color: aqua;
+
+
+        
+    }
